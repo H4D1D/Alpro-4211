@@ -116,7 +116,7 @@ int main() {
    // Hasil Mencari min
     int Result = min(num1, num2);
 
-    cout << "Bilangan terbesar adalah: " << Result << endl;
+    cout << "Bilangan terkecil adalah: " << Result << endl;
     
     
     //Hasil Mencari Maxarr
