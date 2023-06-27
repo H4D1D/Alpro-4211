@@ -16,8 +16,8 @@ enum Kendaraan {
 };
 
 int main() {
-    Cuaca hariIni = Cerah;
-    Kendaraan kendaraanSaya = Motor;
+    Cuaca hariIni = Hujan;
+    Kendaraan kendaraanSaya = Mobil;
 
     cout << "Cuaca hari ini: ";
     switch (hariIni) {
